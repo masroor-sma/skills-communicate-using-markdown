@@ -11,3 +11,9 @@ This a demonstration of using markdown languages for headings.
 ![image of electrocat](https://octodex.github.com/images/electrocat.png)
 
 This is a second commit for demonstrating insertion of images in markdown in github.
+
+``` Python
+for i in range(10):
+    k = i+1
+```
+The above is a demonstration of how we can add code in the markdown using the syntax.
