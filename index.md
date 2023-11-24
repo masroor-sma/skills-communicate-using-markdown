@@ -7,3 +7,7 @@
 ###### This is the least heading you can get from the github 6 hasheshs.
 
 This a demonstration of using markdown languages for headings.
+
+![image of electrocat](https://octodex.github.com/images/electrocat.png)
+
+This is a second commit for demonstrating insertion of images in markdown in github.
