@@ -17,3 +17,9 @@ for i in range(10):
     k = i+1
 ```
 The above is a demonstration of how we can add code in the markdown using the syntax.
+
+The below are the tasks to be completed:
+- [ ] Turn On Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Make more than three repositories 
